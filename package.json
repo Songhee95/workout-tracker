@@ -16,5 +16,15 @@
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Songhee95/workout-tracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Songhee95/workout-tracker/issues"
+  },
+  "homepage": "https://github.com/Songhee95/workout-tracker#readme"
 }
